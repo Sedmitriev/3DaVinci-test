@@ -5,6 +5,6 @@
 1. Скачать и распаковать [архив с PHP интерпретатором](https://windows.php.net/download/);
 2. Скачать и распаковать архив с репозиторием;
 3. В распкованной папке с приложением выполнить команду:
-     composer install
+     `composer install`
 4. Для запуска приложения выполните команду:
-     php main.php start
+     `php main.php start`
