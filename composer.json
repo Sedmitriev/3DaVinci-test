@@ -1,0 +1,19 @@
+{
+    "name": "sedmit/3da-vinci",
+    "description": "3Da-Vinci Test project",
+    "authors": [
+        {
+            "name": "Sergei Dmitriev",
+            "email": "dmitriev-serg@mail.ru"
+        }
+    ],
+    "require": {
+        "symfony/console": "^5.1",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sedmit\\DaVinci\\": "src/"
+        }
+    }
+}
